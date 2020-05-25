@@ -9,4 +9,4 @@ https://mrsbyte.com/2016/10/19/kapsama-problemi-rota-algoritmasi/
 
 Projeyi çalıştırmadan önce en üstte bulunan import edilmiş paketlerin install edilmesi gerekir.
 
-Projenin .exe hali : https://drive.google.com/drive/u/0/folders/1huhzqKGJ7XRKtWM4o_SoTev2vdee5ONU
+Projenin .exe hali : https://drive.google.com/open?id=1ToloeeYVN51Zb-HMbezLTibvhI0E6K9F
